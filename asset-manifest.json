@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/abhiraj2k/auth-api.git/static/css/main.e0d6757d.chunk.css",
-    "main.js": "/abhiraj2k/auth-api.git/static/js/main.5df3b282.chunk.js",
-    "main.js.map": "/abhiraj2k/auth-api.git/static/js/main.5df3b282.chunk.js.map",
-    "runtime-main.js": "/abhiraj2k/auth-api.git/static/js/runtime-main.ddd7d2ce.js",
-    "runtime-main.js.map": "/abhiraj2k/auth-api.git/static/js/runtime-main.ddd7d2ce.js.map",
-    "static/js/2.db6085d9.chunk.js": "/abhiraj2k/auth-api.git/static/js/2.db6085d9.chunk.js",
-    "static/js/2.db6085d9.chunk.js.map": "/abhiraj2k/auth-api.git/static/js/2.db6085d9.chunk.js.map",
-    "index.html": "/abhiraj2k/auth-api.git/index.html",
-    "precache-manifest.9fdc3b6917e327893da7cdecea7f3351.js": "/abhiraj2k/auth-api.git/precache-manifest.9fdc3b6917e327893da7cdecea7f3351.js",
-    "service-worker.js": "/abhiraj2k/auth-api.git/service-worker.js",
-    "static/css/main.e0d6757d.chunk.css.map": "/abhiraj2k/auth-api.git/static/css/main.e0d6757d.chunk.css.map",
-    "static/js/2.db6085d9.chunk.js.LICENSE.txt": "/abhiraj2k/auth-api.git/static/js/2.db6085d9.chunk.js.LICENSE.txt"
+    "main.css": "/auth-api/static/css/main.e0d6757d.chunk.css",
+    "main.js": "/auth-api/static/js/main.5df3b282.chunk.js",
+    "main.js.map": "/auth-api/static/js/main.5df3b282.chunk.js.map",
+    "runtime-main.js": "/auth-api/static/js/runtime-main.2a3c1ab2.js",
+    "runtime-main.js.map": "/auth-api/static/js/runtime-main.2a3c1ab2.js.map",
+    "static/js/2.9f98b4a6.chunk.js": "/auth-api/static/js/2.9f98b4a6.chunk.js",
+    "static/js/2.9f98b4a6.chunk.js.map": "/auth-api/static/js/2.9f98b4a6.chunk.js.map",
+    "index.html": "/auth-api/index.html",
+    "precache-manifest.7412b759c6f2ca1a90551d76597cc0a6.js": "/auth-api/precache-manifest.7412b759c6f2ca1a90551d76597cc0a6.js",
+    "service-worker.js": "/auth-api/service-worker.js",
+    "static/css/main.e0d6757d.chunk.css.map": "/auth-api/static/css/main.e0d6757d.chunk.css.map",
+    "static/js/2.9f98b4a6.chunk.js.LICENSE.txt": "/auth-api/static/js/2.9f98b4a6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ddd7d2ce.js",
-    "static/js/2.db6085d9.chunk.js",
+    "static/js/runtime-main.2a3c1ab2.js",
+    "static/js/2.9f98b4a6.chunk.js",
     "static/css/main.e0d6757d.chunk.css",
     "static/js/main.5df3b282.chunk.js"
   ]
