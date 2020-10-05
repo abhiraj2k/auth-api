@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "151abf75b649cb7fb37d9bbc83d66293",
+    "revision": "7ce91ac2f231fdb96ed68f65f09d83b8",
     "url": "/abhiraj2k/auth-api.git/index.html"
   },
   {
-    "revision": "1e96ee1ef4885f440459",
+    "revision": "4106e13675745d6b05c8",
     "url": "/abhiraj2k/auth-api.git/static/css/main.e0d6757d.chunk.css"
   },
   {
-    "revision": "35bbea379dbe4b077c1b",
-    "url": "/abhiraj2k/auth-api.git/static/js/2.c108b0fa.chunk.js"
+    "revision": "7b9e611a9c0e08d95856",
+    "url": "/abhiraj2k/auth-api.git/static/js/2.db6085d9.chunk.js"
   },
   {
     "revision": "f9e7e68e90600aabdd7d1f759413461d",
-    "url": "/abhiraj2k/auth-api.git/static/js/2.c108b0fa.chunk.js.LICENSE.txt"
+    "url": "/abhiraj2k/auth-api.git/static/js/2.db6085d9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1e96ee1ef4885f440459",
-    "url": "/abhiraj2k/auth-api.git/static/js/main.bc8c0531.chunk.js"
+    "revision": "4106e13675745d6b05c8",
+    "url": "/abhiraj2k/auth-api.git/static/js/main.5df3b282.chunk.js"
   },
   {
     "revision": "10b15b07aca455dfa03e",

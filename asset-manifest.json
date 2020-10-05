@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/abhiraj2k/auth-api.git/static/css/main.e0d6757d.chunk.css",
-    "main.js": "/abhiraj2k/auth-api.git/static/js/main.bc8c0531.chunk.js",
-    "main.js.map": "/abhiraj2k/auth-api.git/static/js/main.bc8c0531.chunk.js.map",
+    "main.js": "/abhiraj2k/auth-api.git/static/js/main.5df3b282.chunk.js",
+    "main.js.map": "/abhiraj2k/auth-api.git/static/js/main.5df3b282.chunk.js.map",
     "runtime-main.js": "/abhiraj2k/auth-api.git/static/js/runtime-main.ddd7d2ce.js",
     "runtime-main.js.map": "/abhiraj2k/auth-api.git/static/js/runtime-main.ddd7d2ce.js.map",
-    "static/js/2.c108b0fa.chunk.js": "/abhiraj2k/auth-api.git/static/js/2.c108b0fa.chunk.js",
-    "static/js/2.c108b0fa.chunk.js.map": "/abhiraj2k/auth-api.git/static/js/2.c108b0fa.chunk.js.map",
+    "static/js/2.db6085d9.chunk.js": "/abhiraj2k/auth-api.git/static/js/2.db6085d9.chunk.js",
+    "static/js/2.db6085d9.chunk.js.map": "/abhiraj2k/auth-api.git/static/js/2.db6085d9.chunk.js.map",
     "index.html": "/abhiraj2k/auth-api.git/index.html",
-    "precache-manifest.9d987a2537a4fb3771aa9ba77a0511c0.js": "/abhiraj2k/auth-api.git/precache-manifest.9d987a2537a4fb3771aa9ba77a0511c0.js",
+    "precache-manifest.9fdc3b6917e327893da7cdecea7f3351.js": "/abhiraj2k/auth-api.git/precache-manifest.9fdc3b6917e327893da7cdecea7f3351.js",
     "service-worker.js": "/abhiraj2k/auth-api.git/service-worker.js",
     "static/css/main.e0d6757d.chunk.css.map": "/abhiraj2k/auth-api.git/static/css/main.e0d6757d.chunk.css.map",
-    "static/js/2.c108b0fa.chunk.js.LICENSE.txt": "/abhiraj2k/auth-api.git/static/js/2.c108b0fa.chunk.js.LICENSE.txt"
+    "static/js/2.db6085d9.chunk.js.LICENSE.txt": "/abhiraj2k/auth-api.git/static/js/2.db6085d9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ddd7d2ce.js",
-    "static/js/2.c108b0fa.chunk.js",
+    "static/js/2.db6085d9.chunk.js",
     "static/css/main.e0d6757d.chunk.css",
-    "static/js/main.bc8c0531.chunk.js"
+    "static/js/main.5df3b282.chunk.js"
   ]
 }
