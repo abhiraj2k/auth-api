@@ -5,6 +5,7 @@ import { useDispatch } from "react-redux";
 import { setEmailToState, setPasswordToState } from "../actions";
 
 const SignIn = (props) => {
+  // Destructuring props
   const {
     email,
     passwordMain,
@@ -17,12 +18,15 @@ const SignIn = (props) => {
     setHasAccount,
   } = props;
 
+  // Initializing dispatch function
   const dispatch = useDispatch();
 
+  // Toggle between signup and login
   const onClickHandler = (e) => {
     setHasAccount(!hasAccount);
   };
 
+  // Handle after submit
   const onSubmitHandler = (e) => {
     dispatch(setEmailToState(email));
     dispatch(setPasswordToState(passwordMain));
@@ -33,6 +37,7 @@ const SignIn = (props) => {
       <div className="container-box">
         <div className="heading">Register or Login</div>
         <form className="form">
+          {/* Setting emil to state */}
           <label>Email:</label>
           <input
             type="text"
@@ -41,6 +46,8 @@ const SignIn = (props) => {
               setEmail(e.target.value);
             }}
           />
+
+          {/* Setting password to state */}
           <label>Password:</label>
           <input
             type="password"
@@ -48,8 +55,11 @@ const SignIn = (props) => {
             onChange={(e) => setPasswordMain(e.target.value)}
           />
         </form>
+
+        {/* Toggle between login and signup */}
         <div className="button-container">
           {hasAccount ? (
+            // If user has account
             <div>
               <button
                 onClick={(e) => {
@@ -65,6 +75,7 @@ const SignIn = (props) => {
               </p>
             </div>
           ) : (
+            // If user does not have account (Default case)
             <div>
               <button
                 onClick={(e) => {
@@ -75,13 +86,13 @@ const SignIn = (props) => {
                 Sign Up
               </button>
               <p>
-                Have an account?{" "}
+                Have an account?
                 <span onClick={(e) => onClickHandler(e)}>Log In</span>
               </p>
             </div>
           )}
         </div>
-
+        {/* Message to be displayed */}
         <div className="message1">{messageMain}</div>
       </div>
       <Footer />
